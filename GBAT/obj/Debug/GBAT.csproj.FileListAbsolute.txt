@@ -1,0 +1,13 @@
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\bin\Debug\GBAT.exe.config
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\bin\Debug\GBAT.exe
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\bin\Debug\GBAT.pdb
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\bin\Debug\sharpPDF.dll
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\obj\Debug\GBAT.csprojResolveAssemblyReference.cache
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\obj\Debug\GBAT.Form1.resources
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\obj\Debug\GBAT.Properties.Resources.resources
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\obj\Debug\GBAT.csproj.GenerateResource.Cache
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\obj\Debug\GBAT.exe
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\obj\Debug\GBAT.pdb
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\bin\Debug\IFC Analyzer\IFC-File-Analyzer-CL.exe
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\bin\Debug\IFC Analyzer\IFC-File-Analyzer.exe
+c:\users\mesh\documents\visual studio 2013\Projects\GBAT\GBAT\bin\Debug\_References\sharpPDF.dll
