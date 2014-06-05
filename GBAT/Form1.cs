@@ -41,8 +41,6 @@ namespace GBAT
         public Form1()
         {
             InitializeComponent();
-            //PopulateProjectTypes();
-            //PopulateBuildingTypes();
             PopulateMaterailList();
         }
 
