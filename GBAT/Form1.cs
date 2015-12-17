@@ -2300,7 +2300,7 @@ namespace GBAT
 					table.addRow(nameRow);
 				}
 				var footerRow = table.createRow();
-				footerRow[0].addText("Score");
+                footerRow[0].addText("Score", doc.getFontReference(predefinedFont.csHelveticaBold), 10);
 				footerRow[1].addParagraph(documentCertficate[tableName.Replace(" ", string.Empty)], 10, predefinedAlignment.csLeft);
 				table.addRow(footerRow);
 				page.addTable(table);
@@ -2319,11 +2319,11 @@ namespace GBAT
 				if (item.Value.Count > 0)
 				{
 					var row = table.createRow();
-					row[0].addParagraph(item.Key, 10, predefinedAlignment.csLeft);
+                    row[0].addParagraph(item.Key, doc.getFontReference(predefinedFont.csHelveticaBold), 10, 10, 255, predefinedAlignment.csLeft);
 					var i = 1;
 					foreach (var key in item.Value[0].Keys)
 					{
-						row[i].addParagraph(key, 10, predefinedAlignment.csLeft);
+                        row[i].addParagraph(key, doc.getFontReference(predefinedFont.csHelveticaBold), 10, 10, 255, predefinedAlignment.csLeft);
 						i++;
 					}
 					table.addRow(row);
@@ -2404,7 +2404,7 @@ namespace GBAT
 			if (documentCertficate.ContainsKey(tableName.Replace(" ", string.Empty)))
 			{
 				var footerRow = table.createRow();
-				footerRow[columnCount - 2].addText("Score");
+                footerRow[columnCount - 2].addText("Score", doc.getFontReference(predefinedFont.csHelveticaBold), 10);
 				footerRow[columnCount - 1].addParagraph(documentCertficate[tableName.Replace(" ", string.Empty)], 10,
 					predefinedAlignment.csLeft);
 				table.addRow(footerRow);
